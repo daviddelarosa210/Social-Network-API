@@ -19,7 +19,7 @@ step 1: Clone Repo
 
 Step 2: run "node server.js"
 
-[![Watch the video]()](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video]()](https://youtu.be/5Mx6KuMCsW0)
 
 ## Usage
 
