@@ -19,6 +19,8 @@ step 1: Clone Repo
 
 Step 2: run "node server.js"
 
+[![Watch the video]()](https://youtu.be/vt5fpE0bzSY)
+
 ## Usage
 
 - Ensure MongoDB is running and the connection string is properly configured.
